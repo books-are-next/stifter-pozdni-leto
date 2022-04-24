@@ -1,8 +1,7 @@
 ---
+title: Sblížení
 contentType: prose
 ---
-
-Sblížení
 
   
 

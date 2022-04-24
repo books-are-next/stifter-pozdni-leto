@@ -1,8 +1,7 @@
 ---
+title: Setkání
 contentType: prose
 ---
-
-Setkání
 
   
 

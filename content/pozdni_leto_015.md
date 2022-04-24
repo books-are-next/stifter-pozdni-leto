@@ -1,8 +1,7 @@
 ---
+title: Slavnost
 contentType: prose
 ---
-
-Slavnost
 
   
 

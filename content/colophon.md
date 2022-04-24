@@ -36,8 +36,8 @@ Verze 1.0 z 3. 12. 2021.
 
 ***
 
-Adalbert Stifter  
-Pozdní léto
+**Adalbert Stifter  
+Pozdní léto**
 
 Překlad Hanuš Karlach
 

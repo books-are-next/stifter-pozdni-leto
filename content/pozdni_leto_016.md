@@ -1,8 +1,7 @@
 ---
+title: Spolek
 contentType: prose
 ---
-
-Spolek
 
   
 

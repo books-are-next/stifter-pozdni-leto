@@ -1,8 +1,7 @@
 ---
+title: Oznámení
 contentType: prose
 ---
-
-Oznámení
 
   
 

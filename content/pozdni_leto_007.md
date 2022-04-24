@@ -1,8 +1,7 @@
 ---
+title: Zastavení
 contentType: prose
 ---
-
-Zastavení
 
   
 

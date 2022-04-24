@@ -1,8 +1,7 @@
 ---
+title: Poutník
 contentType: prose
 ---
-
-Poutník
 
   
 
