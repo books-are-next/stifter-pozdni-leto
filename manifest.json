@@ -1,0 +1,409 @@
+{
+  "author": "Adalbert Stifter",
+  "contenttype": "prose",
+  "identifier": "stifter-pozdni-leto-5ec53e2",
+  "isbn": "978-80-274-1938-8",
+  "languagecode": "cs",
+  "modified": "2021-12-02T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Pozdní léto",
+  "revision": "5ec53e2",
+  "generatedAt": {
+    "date": "Sun Apr 24 2022 09:12:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1650791568795
+  },
+  "documents": [
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "pozdni_leto_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_005.html",
+      "words": 4541,
+      "chars": 26153,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 1,
+      "prev": "pozdni_leto_002.html",
+      "next": "pozdni_leto_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_006.html",
+      "words": 5122,
+      "chars": 29746,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 2,
+      "prev": "pozdni_leto_005.html",
+      "next": "pozdni_leto_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_007.html",
+      "words": 5438,
+      "chars": 31793,
+      "ideas": 97,
+      "role": "chapter",
+      "order": 3,
+      "prev": "pozdni_leto_006.html",
+      "next": "pozdni_leto_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_008.html",
+      "words": 16576,
+      "chars": 98110,
+      "ideas": 260,
+      "role": "chapter",
+      "order": 4,
+      "prev": "pozdni_leto_007.html",
+      "next": "pozdni_leto_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_009.html",
+      "words": 13043,
+      "chars": 76023,
+      "ideas": 159,
+      "role": "chapter",
+      "order": 5,
+      "prev": "pozdni_leto_008.html",
+      "next": "pozdni_leto_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_010.html",
+      "words": 13344,
+      "chars": 76573,
+      "ideas": 131,
+      "role": "chapter",
+      "order": 6,
+      "prev": "pozdni_leto_009.html",
+      "next": "pozdni_leto_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_011.html",
+      "words": 20615,
+      "chars": 120550,
+      "ideas": 278,
+      "role": "chapter",
+      "order": 7,
+      "prev": "pozdni_leto_010.html",
+      "next": "pozdni_leto_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_012.html",
+      "words": 14498,
+      "chars": 84667,
+      "ideas": 115,
+      "role": "chapter",
+      "order": 8,
+      "prev": "pozdni_leto_011.html",
+      "next": "pozdni_leto_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_013.html",
+      "words": 23520,
+      "chars": 137343,
+      "ideas": 165,
+      "role": "chapter",
+      "order": 9,
+      "prev": "pozdni_leto_012.html",
+      "next": "pozdni_leto_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_014.html",
+      "words": 16416,
+      "chars": 94923,
+      "ideas": 145,
+      "role": "chapter",
+      "order": 10,
+      "prev": "pozdni_leto_013.html",
+      "next": "pozdni_leto_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_015.html",
+      "words": 7674,
+      "chars": 45074,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 11,
+      "prev": "pozdni_leto_014.html",
+      "next": "pozdni_leto_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_016.html",
+      "words": 8240,
+      "chars": 47535,
+      "ideas": 192,
+      "role": "chapter",
+      "order": 12,
+      "prev": "pozdni_leto_015.html",
+      "next": "pozdni_leto_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_017.html",
+      "words": 10154,
+      "chars": 58533,
+      "ideas": 184,
+      "role": "chapter",
+      "order": 13,
+      "prev": "pozdni_leto_016.html",
+      "next": "pozdni_leto_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_018.html",
+      "words": 7199,
+      "chars": 42393,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 14,
+      "prev": "pozdni_leto_017.html",
+      "next": "pozdni_leto_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_019.html",
+      "words": 20728,
+      "chars": 120495,
+      "ideas": 172,
+      "role": "chapter",
+      "order": 15,
+      "prev": "pozdni_leto_018.html",
+      "next": "pozdni_leto_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_020.html",
+      "words": 22288,
+      "chars": 128121,
+      "ideas": 196,
+      "role": "chapter",
+      "order": 16,
+      "prev": "pozdni_leto_019.html",
+      "next": "pozdni_leto_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozdní léto",
+      "file": "pozdni_leto_021.html",
+      "words": 14353,
+      "chars": 83199,
+      "ideas": 245,
+      "role": "chapter",
+      "order": 17,
+      "prev": "pozdni_leto_020.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Pozdní léto",
+      "file": "colophon.html",
+      "words": 155,
+      "chars": 1009,
+      "ideas": 25,
+      "role": "colophon",
+      "order": null,
+      "prev": "pozdni_leto_021.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 223908,
+      "chars": 1302267,
+      "ideas": 2550
+    },
+    "chapters": {
+      "words": 223749,
+      "chars": 1301231,
+      "ideas": 2523
+    }
+  }
+}

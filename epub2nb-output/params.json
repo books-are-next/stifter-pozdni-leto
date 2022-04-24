@@ -1,11 +1,14 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Pozdní léto",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Adalbert Stifter",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T00:00:00.000Z"
+      "modified": "2021-12-02T00:00:00.000Z",
+      "isbn": "978-80-274-1938-8"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
@@ -30,50 +33,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "pozdni_leto_001.md",
             "xhtml": "pozdni_leto_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "pozdni_leto_002.md",
             "xhtml": "pozdni_leto_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "pozdni_leto_003.md",
             "xhtml": "pozdni_leto_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "pozdni_leto_004.md",
             "xhtml": "pozdni_leto_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "pozdni_leto_005.md",
@@ -84,7 +92,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Domácí pohoda"
           },
           {
             "filename": "pozdni_leto_006.md",
@@ -95,7 +105,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Poutník"
           },
           {
             "filename": "pozdni_leto_007.md",
@@ -106,7 +118,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zastavení"
           },
           {
             "filename": "pozdni_leto_008.md",
@@ -117,7 +131,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Nocleh"
           },
           {
             "filename": "pozdni_leto_009.md",
@@ -128,7 +144,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Rozloučení"
           },
           {
             "filename": "pozdni_leto_010.md",
@@ -139,7 +157,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Návštěva"
           },
           {
             "filename": "pozdni_leto_011.md",
@@ -150,7 +170,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Setkání"
           },
           {
             "filename": "pozdni_leto_012.md",
@@ -161,7 +183,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Rozšíření"
           },
           {
             "filename": "pozdni_leto_013.md",
@@ -172,7 +196,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Sblížení"
           },
           {
             "filename": "pozdni_leto_014.md",
@@ -183,7 +209,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Nahlédnutí"
           },
           {
             "filename": "pozdni_leto_015.md",
@@ -194,7 +222,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Slavnost"
           },
           {
             "filename": "pozdni_leto_016.md",
@@ -205,7 +235,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Spolek"
           },
           {
             "filename": "pozdni_leto_017.md",
@@ -216,7 +248,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Věci se vyvíjejí"
           },
           {
             "filename": "pozdni_leto_018.md",
@@ -227,7 +261,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Důvěra"
           },
           {
             "filename": "pozdni_leto_019.md",
@@ -238,7 +274,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Oznámení"
           },
           {
             "filename": "pozdni_leto_020.md",
@@ -249,7 +287,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ohlédnutí"
           },
           {
             "filename": "pozdni_leto_021.md",
@@ -260,18 +300,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Závěr"
           },
           {
             "filename": "pozdni_leto_022.md",
             "xhtml": "pozdni_leto_022.xhtml",
             "id": 21,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -482,6 +525,6 @@
       "user": "books-are-next",
       "repo": "stifter-pozdni-leto"
     },
-    "generatedAt": 1650790061619
+    "generatedAt": 1650791517375
   }
 }
