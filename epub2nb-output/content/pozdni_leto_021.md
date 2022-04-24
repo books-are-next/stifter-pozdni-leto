@@ -1,8 +1,7 @@
 ---
+title: Závěr
 contentType: prose
 ---
-
-Závěr
 
   
 

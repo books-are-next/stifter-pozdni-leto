@@ -1,8 +1,7 @@
 ---
+title: Věci se vyvíjejí
 contentType: prose
 ---
-
-Věci se vyvíjejí
 
   
 

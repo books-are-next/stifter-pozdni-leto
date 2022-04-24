@@ -1,8 +1,7 @@
 ---
+title: Rozšíření
 contentType: prose
 ---
-
-Rozšíření
 
   
 

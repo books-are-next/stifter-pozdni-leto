@@ -1,8 +1,7 @@
 ---
+title: Domácí pohoda
 contentType: prose
 ---
-
-Domácí pohoda
 
   
 

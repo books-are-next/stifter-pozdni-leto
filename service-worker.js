@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-5ec53e2';
+const CACHE = 'cache-1b47965';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./pozdni_leto_002.html","./manifest.json","./pozdni_leto_005.html","./pozdni_leto_006.html","./pozdni_leto_007.html","./pozdni_leto_008.html","./pozdni_leto_009.html","./pozdni_leto_010.html","./pozdni_leto_011.html","./pozdni_leto_012.html","./pozdni_leto_013.html","./pozdni_leto_014.html","./pozdni_leto_015.html","./pozdni_leto_016.html","./pozdni_leto_017.html","./pozdni_leto_018.html","./pozdni_leto_019.html","./pozdni_leto_020.html","./pozdni_leto_021.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/mzk_logo_tyrkys_transparent.jpg","./resources/obalka_pozdni_leto.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./pozdni_leto_002.html","./pozdni_leto_005.html","./pozdni_leto_006.html","./pozdni_leto_007.html","./pozdni_leto_008.html","./pozdni_leto_009.html","./pozdni_leto_010.html","./pozdni_leto_011.html","./pozdni_leto_012.html","./pozdni_leto_013.html","./pozdni_leto_014.html","./pozdni_leto_015.html","./pozdni_leto_016.html","./pozdni_leto_017.html","./pozdni_leto_018.html","./pozdni_leto_019.html","./pozdni_leto_020.html","./pozdni_leto_021.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/mzk_logo_tyrkys_transparent.jpg","./resources/obalka_pozdni_leto.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {

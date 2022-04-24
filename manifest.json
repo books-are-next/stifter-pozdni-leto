@@ -1,16 +1,16 @@
 {
   "author": "Adalbert Stifter",
   "contenttype": "prose",
-  "identifier": "stifter-pozdni-leto-5ec53e2",
+  "identifier": "stifter-pozdni-leto-1b47965",
   "isbn": "978-80-274-1938-8",
   "languagecode": "cs",
   "modified": "2021-12-02T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Pozdní léto",
-  "revision": "5ec53e2",
+  "revision": "1b47965",
   "generatedAt": {
-    "date": "Sun Apr 24 2022 09:12:48 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1650791568795
+    "date": "Sun Apr 24 2022 09:37:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1650793045439
   },
   "documents": [
     {
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "title": "Pozdní léto",
+      "title": "Domácí pohoda • Pozdní léto",
       "file": "pozdni_leto_005.html",
       "words": 4541,
       "chars": 26153,
@@ -47,14 +47,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Domácí pohoda",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pozdní léto",
+      "title": "Poutník • Pozdní léto",
       "file": "pozdni_leto_006.html",
       "words": 5122,
       "chars": 29746,
@@ -67,14 +67,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Poutník",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pozdní léto",
+      "title": "Zastavení • Pozdní léto",
       "file": "pozdni_leto_007.html",
       "words": 5438,
       "chars": 31793,
@@ -87,14 +87,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Zastavení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pozdní léto",
+      "title": "Nocleh • Pozdní léto",
       "file": "pozdni_leto_008.html",
       "words": 16576,
       "chars": 98110,
@@ -107,14 +107,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Nocleh",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pozdní léto",
+      "title": "Rozloučení • Pozdní léto",
       "file": "pozdni_leto_009.html",
       "words": 13043,
       "chars": 76023,
@@ -127,14 +127,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Rozloučení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pozdní léto",
+      "title": "Návštěva • Pozdní léto",
       "file": "pozdni_leto_010.html",
       "words": 13344,
       "chars": 76573,
@@ -147,14 +147,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Návštěva",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pozdní léto",
+      "title": "Setkání • Pozdní léto",
       "file": "pozdni_leto_011.html",
       "words": 20615,
       "chars": 120550,
@@ -167,14 +167,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Setkání",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pozdní léto",
+      "title": "Rozšíření • Pozdní léto",
       "file": "pozdni_leto_012.html",
       "words": 14498,
       "chars": 84667,
@@ -187,14 +187,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Rozšíření",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pozdní léto",
+      "title": "Sblížení • Pozdní léto",
       "file": "pozdni_leto_013.html",
       "words": 23520,
       "chars": 137343,
@@ -207,14 +207,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Sblížení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pozdní léto",
+      "title": "Nahlédnutí • Pozdní léto",
       "file": "pozdni_leto_014.html",
       "words": 16416,
       "chars": 94923,
@@ -227,14 +227,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Nahlédnutí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pozdní léto",
+      "title": "Slavnost • Pozdní léto",
       "file": "pozdni_leto_015.html",
       "words": 7674,
       "chars": 45074,
@@ -247,14 +247,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Slavnost",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pozdní léto",
+      "title": "Spolek • Pozdní léto",
       "file": "pozdni_leto_016.html",
       "words": 8240,
       "chars": 47535,
@@ -267,14 +267,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Spolek",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pozdní léto",
+      "title": "Věci se vyvíjejí • Pozdní léto",
       "file": "pozdni_leto_017.html",
       "words": 10154,
       "chars": 58533,
@@ -287,14 +287,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Věci se vyvíjejí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pozdní léto",
+      "title": "Důvěra • Pozdní léto",
       "file": "pozdni_leto_018.html",
       "words": 7199,
       "chars": 42393,
@@ -307,14 +307,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Důvěra",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pozdní léto",
+      "title": "Oznámení • Pozdní léto",
       "file": "pozdni_leto_019.html",
       "words": 20728,
       "chars": 120495,
@@ -327,14 +327,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Oznámení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pozdní léto",
+      "title": "Ohlédnutí • Pozdní léto",
       "file": "pozdni_leto_020.html",
       "words": 22288,
       "chars": 128121,
@@ -347,14 +347,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Ohlédnutí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pozdní léto",
+      "title": "Závěr • Pozdní léto",
       "file": "pozdni_leto_021.html",
       "words": 14353,
       "chars": 83199,
@@ -367,7 +367,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Závěr",
           "id": null,
           "children": []
         }

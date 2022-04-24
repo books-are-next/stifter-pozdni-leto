@@ -1,8 +1,7 @@
 ---
+title: Nahlédnutí
 contentType: prose
 ---
-
-Nahlédnutí
 
   
 

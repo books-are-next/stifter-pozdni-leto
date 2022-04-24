@@ -1,8 +1,7 @@
 ---
+title: Rozloučení
 contentType: prose
 ---
-
-Rozloučení
 
   
 

@@ -11,7 +11,7 @@
       "isbn": "978-80-274-1938-8"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis",
       "h3": "",
@@ -25,7 +25,7 @@
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
       "remove": "",
       "ignore": ""
     },
@@ -354,103 +354,103 @@
         "xhtml": "pozdni_leto_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Domácí pohoda",
         "subtitleSuggest": "",
         "filename": "pozdni_leto_005.md",
         "xhtml": "pozdni_leto_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poutník",
         "subtitleSuggest": "",
         "filename": "pozdni_leto_006.md",
         "xhtml": "pozdni_leto_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zastavení",
         "subtitleSuggest": "",
         "filename": "pozdni_leto_007.md",
         "xhtml": "pozdni_leto_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nocleh",
         "subtitleSuggest": "",
         "filename": "pozdni_leto_008.md",
         "xhtml": "pozdni_leto_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Rozloučení",
         "subtitleSuggest": "",
         "filename": "pozdni_leto_009.md",
         "xhtml": "pozdni_leto_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Návštěva",
         "subtitleSuggest": "",
         "filename": "pozdni_leto_010.md",
         "xhtml": "pozdni_leto_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Setkání",
         "subtitleSuggest": "",
         "filename": "pozdni_leto_011.md",
         "xhtml": "pozdni_leto_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Rozšíření",
         "subtitleSuggest": "",
         "filename": "pozdni_leto_012.md",
         "xhtml": "pozdni_leto_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sblížení",
         "subtitleSuggest": "",
         "filename": "pozdni_leto_013.md",
         "xhtml": "pozdni_leto_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nahlédnutí",
         "subtitleSuggest": "",
         "filename": "pozdni_leto_014.md",
         "xhtml": "pozdni_leto_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Slavnost",
         "subtitleSuggest": "",
         "filename": "pozdni_leto_015.md",
         "xhtml": "pozdni_leto_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Spolek",
         "subtitleSuggest": "",
         "filename": "pozdni_leto_016.md",
         "xhtml": "pozdni_leto_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Věci se vyvíjejí",
         "subtitleSuggest": "",
         "filename": "pozdni_leto_017.md",
         "xhtml": "pozdni_leto_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Důvěra",
         "subtitleSuggest": "",
         "filename": "pozdni_leto_018.md",
         "xhtml": "pozdni_leto_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Oznámení",
         "subtitleSuggest": "",
         "filename": "pozdni_leto_019.md",
         "xhtml": "pozdni_leto_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ohlédnutí",
         "subtitleSuggest": "",
         "filename": "pozdni_leto_020.md",
         "xhtml": "pozdni_leto_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Závěr",
         "subtitleSuggest": "",
         "filename": "pozdni_leto_021.md",
         "xhtml": "pozdni_leto_021.xhtml"
@@ -525,6 +525,6 @@
       "user": "books-are-next",
       "repo": "stifter-pozdni-leto"
     },
-    "generatedAt": 1650791517375
+    "generatedAt": 1650792996202
   }
 }
