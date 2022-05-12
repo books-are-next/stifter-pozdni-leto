@@ -1,21 +1,43 @@
 {
-  "author": "Adalbert Stifter",
-  "contenttype": "prose",
-  "identifier": "stifter-pozdni-leto-1b47965",
-  "isbn": "978-80-274-1938-8",
-  "languagecode": "cs",
-  "modified": "2021-12-02T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Pozdní léto",
-  "revision": "1b47965",
+  "author": "Adalbert Stifter",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "stifter-pozdni-leto-32747ef",
+  "revision": "32747ef",
+  "readingOrder": [
+    "promo.html",
+    "pozdni_leto_005.html",
+    "pozdni_leto_006.html",
+    "pozdni_leto_007.html",
+    "pozdni_leto_008.html",
+    "pozdni_leto_009.html",
+    "pozdni_leto_010.html",
+    "pozdni_leto_011.html",
+    "pozdni_leto_012.html",
+    "pozdni_leto_013.html",
+    "pozdni_leto_014.html",
+    "pozdni_leto_015.html",
+    "pozdni_leto_016.html",
+    "pozdni_leto_017.html",
+    "pozdni_leto_018.html",
+    "pozdni_leto_019.html",
+    "pozdni_leto_020.html",
+    "pozdni_leto_021.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sun Apr 24 2022 09:37:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1650793045439
+    "date": "Thu May 12 2022 10:43:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352206296
   },
   "documents": [
     {
-      "title": "Pozdní léto",
-      "file": "pozdni_leto_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +45,17 @@
       "order": 0,
       "prev": null,
       "next": "pozdni_leto_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Domácí pohoda • Pozdní léto",
+      "title": "Domácí pohoda",
       "file": "pozdni_leto_005.html",
       "words": 4541,
       "chars": 26153,
       "ideas": 35,
       "role": "chapter",
       "order": 1,
-      "prev": "pozdni_leto_002.html",
+      "prev": "promo.html",
       "next": "pozdni_leto_006.html",
       "toc": [
         {
@@ -54,7 +68,7 @@
       ]
     },
     {
-      "title": "Poutník • Pozdní léto",
+      "title": "Poutník",
       "file": "pozdni_leto_006.html",
       "words": 5122,
       "chars": 29746,
@@ -74,7 +88,7 @@
       ]
     },
     {
-      "title": "Zastavení • Pozdní léto",
+      "title": "Zastavení",
       "file": "pozdni_leto_007.html",
       "words": 5438,
       "chars": 31793,
@@ -94,7 +108,7 @@
       ]
     },
     {
-      "title": "Nocleh • Pozdní léto",
+      "title": "Nocleh",
       "file": "pozdni_leto_008.html",
       "words": 16576,
       "chars": 98110,
@@ -114,7 +128,7 @@
       ]
     },
     {
-      "title": "Rozloučení • Pozdní léto",
+      "title": "Rozloučení",
       "file": "pozdni_leto_009.html",
       "words": 13043,
       "chars": 76023,
@@ -134,7 +148,7 @@
       ]
     },
     {
-      "title": "Návštěva • Pozdní léto",
+      "title": "Návštěva",
       "file": "pozdni_leto_010.html",
       "words": 13344,
       "chars": 76573,
@@ -154,7 +168,7 @@
       ]
     },
     {
-      "title": "Setkání • Pozdní léto",
+      "title": "Setkání",
       "file": "pozdni_leto_011.html",
       "words": 20615,
       "chars": 120550,
@@ -174,7 +188,7 @@
       ]
     },
     {
-      "title": "Rozšíření • Pozdní léto",
+      "title": "Rozšíření",
       "file": "pozdni_leto_012.html",
       "words": 14498,
       "chars": 84667,
@@ -194,7 +208,7 @@
       ]
     },
     {
-      "title": "Sblížení • Pozdní léto",
+      "title": "Sblížení",
       "file": "pozdni_leto_013.html",
       "words": 23520,
       "chars": 137343,
@@ -214,7 +228,7 @@
       ]
     },
     {
-      "title": "Nahlédnutí • Pozdní léto",
+      "title": "Nahlédnutí",
       "file": "pozdni_leto_014.html",
       "words": 16416,
       "chars": 94923,
@@ -234,7 +248,7 @@
       ]
     },
     {
-      "title": "Slavnost • Pozdní léto",
+      "title": "Slavnost",
       "file": "pozdni_leto_015.html",
       "words": 7674,
       "chars": 45074,
@@ -254,7 +268,7 @@
       ]
     },
     {
-      "title": "Spolek • Pozdní léto",
+      "title": "Spolek",
       "file": "pozdni_leto_016.html",
       "words": 8240,
       "chars": 47535,
@@ -274,7 +288,7 @@
       ]
     },
     {
-      "title": "Věci se vyvíjejí • Pozdní léto",
+      "title": "Věci se vyvíjejí",
       "file": "pozdni_leto_017.html",
       "words": 10154,
       "chars": 58533,
@@ -294,7 +308,7 @@
       ]
     },
     {
-      "title": "Důvěra • Pozdní léto",
+      "title": "Důvěra",
       "file": "pozdni_leto_018.html",
       "words": 7199,
       "chars": 42393,
@@ -314,7 +328,7 @@
       ]
     },
     {
-      "title": "Oznámení • Pozdní léto",
+      "title": "Oznámení",
       "file": "pozdni_leto_019.html",
       "words": 20728,
       "chars": 120495,
@@ -334,7 +348,7 @@
       ]
     },
     {
-      "title": "Ohlédnutí • Pozdní léto",
+      "title": "Ohlédnutí",
       "file": "pozdni_leto_020.html",
       "words": 22288,
       "chars": 128121,
@@ -354,7 +368,7 @@
       ]
     },
     {
-      "title": "Závěr • Pozdní léto",
+      "title": "Závěr",
       "file": "pozdni_leto_021.html",
       "words": 14353,
       "chars": 83199,
@@ -374,11 +388,11 @@
       ]
     },
     {
-      "title": "Tiráž • Pozdní léto",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 155,
-      "chars": 1009,
-      "ideas": 25,
+      "words": 134,
+      "chars": 850,
+      "ideas": 19,
       "role": "colophon",
       "order": null,
       "prev": "pozdni_leto_021.html",
@@ -396,9 +410,9 @@
   ],
   "totals": {
     "all": {
-      "words": 223908,
-      "chars": 1302267,
-      "ideas": 2550
+      "words": 223887,
+      "chars": 1302108,
+      "ideas": 2544
     },
     "chapters": {
       "words": 223749,
