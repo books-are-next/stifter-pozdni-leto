@@ -13,7 +13,7 @@ meta:
   modified: '2021-12-02T00:00:00.000Z'
   isbn: 978-80-274-1938-8
 readingOrder:
-  - pozdni_leto_002.html
+  - promo.html
   - pozdni_leto_005.html
   - pozdni_leto_006.html
   - pozdni_leto_007.html
