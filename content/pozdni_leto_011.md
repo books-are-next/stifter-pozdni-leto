@@ -3,6 +3,8 @@ title: Setkání
 contentType: prose
 ---
 
+<section>
+
 Když jsem putoval na místo, které jsem si stanovil, nakreslil jsem krásnou sochu, kterou jsem objevil ve výklenku jedné zřícené zdi. Vylovil jsem na to z tlumoku svůj sešit na kreslení; nosil jsem ho v něm teď s sebou pořád. Tohle byla na cestě jediná přestávka a jediné zastavení.
 
 Když jsem dorazil do určené končiny, první jsem udělal to, že jsem si lépe rozvrhl čas než dříve. Musel jsem si přiznat, že na mne nejspíš bude mít nemalý vliv to, jak se zvládá každodenní práce v Růžovém domě. Jelikož si tam velmi váží času a s tímto statkem se nakládá navýsost pečlivě, začal jsem, i když jsem si já v tomto ohledu neměl dosud příliš co vyčítat, daleko spořádaněji než doposud konat za určitou dobu k jednomu jedinému cíli; dříve jsem pod vlivem okamžitých dojmů cíle často měnil, a ač jsem se horlivě snažil, přesto jsem ne vždy dosahoval účinku přiměřeného takové snaze. Teď jsem si dal za úkol probádat určitý úsek a v průběhu bádání nenechat stranou vůbec nic, co by mělo nějaký význam, ale ani neodsunovat nic do nějaké příhodnější budoucnosti, takže bych snad do doby, kdy vykvetou růže, nebyl-li bych s předpokládaným úsekem hotov, měl dokončenu skutečně alespoň tu část, kterou jsem probádal, a mohl se odvolávat na přesně popsané výsledky. Velice záhy poté, co jsem s prací začal, poznal jsem, že jsem si prostor vymezil příliš široce; ale poznal jsem velice záhy i to, že i ten menší prostor, zmohu-li jej, zajistí mi úspěch větší, než kdybych tak jako v minulosti hodný čas upíral pohled téměř na všechno. Nadto jsem pociťoval jisté uspokojení, když jsem viděl, že se tu článek po článku sřetězuje jistý řád, kdežto dříve měl člověk před sebou spíše jakousi mile chaotickou všehochuť, než že by se bylo z veškerých těch surovin zhnětlo cosi zformovaného.
@@ -556,3 +558,5 @@ Jak tak přede mnou stála, znovu jsem pochopil, podobně jak mě to napadlo, kd
 Nastoupili jsme do kočáru, sjeli dolů po zeleném Růžovém vrchu, stočili se k severu a pozdě v noci jsme dorazili do Růžového domu.
 
 Už jsem v tom domě neměl stání, protože jsem už nemohl ztrácet čas. Sbalil jsem si věci, označil bedny a zavazadla, kudy se mají kam dopravit, zašel za všemi, o nichž jsem si myslel, že se s nimi mám rozloučit, poděkoval jsem svému hostiteli za veškerou laskavost a přívětivost, slíbil jsem, že zase přijedu, a jednoho krásného dne jsem se vydal Růžovým vrchem dolů. Jelikož to bylo v době, kdy měl Gustav volno, šel on a Eustach se mnou ještě hodinu cesty.
+
+</section>

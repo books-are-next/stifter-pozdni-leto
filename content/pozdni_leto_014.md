@@ -3,6 +3,8 @@ title: Nahlédnutí
 contentType: prose
 ---
 
+<section>
+
 Odjížděl jsem z Růžového domu za špatného počasí, které větrem, deštěm a sněhem vystřídalo bezmračné a slunečné dny, jež jsme trávili na vysočině. Koně mého hostitele mě dovezli na první poštu a tam už jsem měl objednáno místo v dostavníku, který jel k mému domovu. Matylda a Natálie odjely dva dny přede mnou, jelikož se na obloze pomalu ukazovaly příznaky, že mírné dny v tomhle roce už skončí. Roland ze svého putování dorazil už na Strázný dvůr. Všechno ukazovalo na to, že v povětří nadejde bouřlivá změna. Nevím, proč jsem tu zůstal tak dlouho. Také mi připadalo, že je jedno, jestli je počasí špatné, anebo ne. Byl jsem ze svého putování zvyklý na každé počasí, o to spíš mi mohlo být tohle lhostejné, kdyžtě jsem seděl v dokonale chráněném voze a ujížděl po dobře zbudované silnici.
 
 V poledne třetího dne poté, co jsem odjel z Růžového domu, dorazil jsem ke svým nejbližším. V tomhle roce už druhý příjezd.
@@ -290,3 +292,5 @@ Konečně nadešel čas, kdy se mělo jít do Hvězdného dvora. Matylda a Nat�
 V době mezi odjezdem Matyldiným a naším vznesl můj hostitel vůči mně prosbu. Šlo o to, jestli bych mu v nadcházející zimě nezhotovil přesnou kresbu obložení, které jsem z Hlásného údolí přivezl otci a které pak zasadil do sloupů ve skleněném domku. Abych byl tak laskav a kresbu mu pak další léto přivezl. Cítil jsem velkou radost nad tím, že člověku, k němuž lnu takovou náklonností a jemuž za tolik vděčím, mohu prokázat nějakou službu, a slíbil jsem mu, že kresbu vytvořím tak přesnou a tak obstojnou, jak mi to síly dovolí.
 
 V jednom z příštích dnů můj hostitel, Eustach, Roland, Gustav a já jsme odjeli do Hvězdného dvora.
+
+</section>

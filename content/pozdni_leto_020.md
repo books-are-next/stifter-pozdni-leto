@@ -3,6 +3,8 @@ title: Ohlédnutí
 contentType: prose
 ---
 
+<section>
+
 O nic jsem nežádal a k ničemu nevyzýval ani zjevně, ani zastřeně, přesto můj hostitel, když uplynul jeden den, pokračoval ve svých vývodech. Zeptal se, jestli může nějakou dobu strávit u mě v pokoji, a já jsem samozřejmě přitakal. Seděli jsme u příjemného a tichého ohně, který se živil z velikánských a pevných bukových špalků, pohodlně se usadil v čalouněném křesle a řekl: „Rád bych dneska, jestli je vám to po chuti, dovyprávěl všechno do konce. Postaral jsem se, aby nás nikdo nerušil, jen mi klidně řekněte, jestli si mě chcete poslechnout.“
 
 „Vy víte, že mi to bude nejenom příjemné, ale že je to i mou povinností,“ odpověděl jsem mu.
@@ -392,3 +394,5 @@ Už předtím vstal, teď mi podal ruku, stiskl mou srdečně a odešel z poko
 Ještě hodnou chvíli jsem stál a snažil jsem se uspořádat si myšlenky. Jenže když jsem poprvé stoupal k tomuhle domu a druhý den si prohlížel, co je v něm, nepřišlo mi vůbec na mysl, že všechno dopadne, jak to dopadlo, a že to všechno bude mým majetkem. Také jsem teď chápal, proč můj hostitel, kdykoliv mluvil o svém jmění, používal většinou výraz „naše“. Vztahoval je už na Matyldu a na její děti.
 
 Poté co jsem ještě nějaký čas pobyl ve svém příbytku, vyšel jsem z něho, prošel jsem se na čerstvém vzduchu a dal v sobě doznít všemu, co jsem vyslechl.
+
+</section>

@@ -3,6 +3,8 @@ title: Nocleh
 contentType: prose
 ---
 
+<section>
+
 Po nějaké chvíli řekl můj hostitel: „Ježto jste přijal mou nabídku přenocování, mohli bychom si od tohohle stromu vyjít trochu ven, tak abyste lépe poznal náš kraj. Kdyby snad bouřka propukala, asi oba víme, jaké jsou toho příznaky, abychom včas udělali čelem vzad a bezpečně došli domů.“
 
 „To můžeme udělat,“ řekl jsem a vstali jsme z lavičky.
@@ -520,3 +522,5 @@ Konečně zase promluvil: „Zůstanete u nás ještě dnes odpoledne a přes 
 „Mám to na paměti,“ řekl jsem, „a nebudu dělat zmatky.“
 
 Za chvilku poté vstal, dlaní si z vlasů vytřepal zvířátka a jiná tělíska, která na něj ze stromu napadala, odporoučel se a odešel směrem k domu.
+
+</section>
