@@ -3,6 +3,8 @@ title: Rozloučení
 contentType: prose
 ---
 
+<section>
+
 Ještě nějakou dobu jsem seděl pod stromem a srovnával si v mysli, co jsem uviděl a uslyšel. Ve stromě bzučely včely a v zahradě zpívali ptáci. Některými svými částmi, ať už bílou zdí, nebo cihlovou střechou, nakukoval sem zelení stromů dům, do něhož starý muž odešel, a po mé pravici, na druhé straně křovisek v končině, kde jsem tušil truhlárnu, stoupal vzhůru do povětří řídký kouř. Zpěv ptáků a bzukot včel, to pro mne bylo málem ticho, ježto jsem za svého putování po horách takovým neustávajícím zvukům uvykl. Ticho přerušovaly jen jednotlivé zvuky, které sem doléhaly od dělníků v zahradě, buď bylo slyšet kvičení pumpy, jíž natahovali do věder vodu a strouhami ji pak vedli do nádrže, aby ji mohli večer nabírat na kropení, anebo to zněl daleký anebo blízký lidský hovor, a v něm nějaký povel anebo informace. Rozličné části oblohy, které sem nahlížely zelení stromů, byly úplně modré a prozrazovaly, nakolik měl můj hostitel pravdu se svou předpovědí krásného počasí.
 
 Konečně jsem se vytrhl z přemýšlení a vydal se vzhůru zahradou.
@@ -318,3 +320,5 @@ Za tři hodiny jsem došel na kopec, z něhož jsem mohl obhlédnout krajinu za
 Záhy jsem došel k osadě, kde jsem hodlal poobědvat, protože doposud jsem se nikde nezastavoval; vzdor tomu že slunce mělo k nadhlavníku urazit ještě hodný kus cesty.
 
 V osadě jsem se znovu poptal, komu že patří onen bílý dům, popsal ho, a kde stojí, jak jen jsem dovedl. Řekli mi o jednom člověku, který kdysi zastával vysoké státní funkce; ale řekli mi i dvě jména, barona z Risachu a jistého pana Morgana. A znovu jsem neměl žádnou jistotu, tak jako předtím. Druhý den ráno jsem došel k horskému pásmu, které bylo cílem mého putování a do něhož jsem se předtím rozhodl přejít z jiného pásma dílem po rovné zemi. V poledne jsem dorazil do hostince, který jsem si vybral k bydlení. Zavazadlo už jsem tam měl a řekli mi, že mě čekali už dříve. Vyložil jsem jim, proč že jsem dorazil tak pozdě, zařídil jsem se v pokoji, který jsem si už dříve objednal, a pustil jsem se do věcí, které jsem si umínil konat v téhle horské končině.
+
+</section>

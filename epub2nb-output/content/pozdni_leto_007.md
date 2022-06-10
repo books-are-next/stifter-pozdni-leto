@@ -3,6 +3,8 @@ title: Zastavení
 contentType: prose
 ---
 
+<section>
+
 Jednou jsem scházel z vysokých hor do pahorkatiny. Hodlal jsem se přemístit z jednoho pohoří do druhého a přejít do něho krajinou v jednom úseku otevřenou. Každý zná předhůří, jímž vysoké hory jako by jakýmsi přechodovým terénem vybíhaly do plošší končiny. Pokryto listnatým anebo jehličnatým lesem táhne se v příjemných barvách do dáli, tu a tam odhalí nad sebou modrou hlavu té nebo oné vysoké hory, tu a tam je přetne svítící louka, má na sobě veškeré vody, které skýtají hory a které proudí do kraje, předvádí nejedno stavení a nejeden kostelík a rozpínají se všemi směry, jimiž se hory svažují do nížiny, ke končinám, kde je víc stavení a kde bydlí víc lidí.
 
 Když jsem scházel po svahu těchto hor a měl lepší rozhled, na západní straně jsem postřehl jemné mraky bouřky, která se zvolna sbírala a zastírala svým závojem oblohu. Udatně jsem rázoval dál a dál a díval se, jak mračna přibývají a rostou. Když jsem došel už dost daleko a ocitl se v končině, kde se mírné kopce střídají s nízkými plochami, kde jsou rozptýleny šafářské dvory, kde se krajinou táhnou ovocné sady skoro jak lesy, kde se v tmavém listí třpytí kostelní věže, v údolních úžlabinách šumí potoky a všude díky doširoka otevřené krajině, jakou ta končina skýtá, je zahlédnout modrý zubatý pás velehor, musel jsem pomyslet na to, že se tu někde zastavím; protože do vesnice, kde jsem si hodlal odpočinout, už bych asi nedošel. Bouřka už dozrála natolik, že mohla vypuknout do hodiny, a za okolností pro ni příznivých dokonce i dříve.
@@ -194,3 +196,5 @@ Po nějaké době řekl můj společník: „Vaše výprava asi nemá cíl, jak�
 „Opravdu jsem si toho všiml,“ odpověděl jsem.
 
 „Obojí jsem dal odnést do vašeho pokoje,“ řekl muž, „protože jsem už tušil, že tuhle noc strávíte u nás v domě.“
+
+</section>

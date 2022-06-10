@@ -3,6 +3,8 @@ title: Závěr
 contentType: prose
 ---
 
+<section>
+
 Druhého dne jsem se dopoledne v době, o níž jsem věděl, že můj hostitel nemá tolik co dělat, vybraně oblékl, zašel za ním do jizby a vroucně mu poděkoval za úctu, jakou mi prokazuje, když mě považuje za hodna toho, být Natáliiným manželem.
 
 „Pokud jde o důvěru,“ opáčil, „je samozřejmé, že do svých nejniternějších záležitostí nezasvěcujeme každého, kdo nám je vzdálen; ale stejně tak je samozřejmé, že ten, kdo v budoucnu bude tvořit část naší rodiny, také bude vědět všechno, co se týká téhle rodiny. Řekl jsem vám to nejpodstatnější, jednotlivé drobné okolnosti, jež se ne vždy uloží v naší představivosti, na věci nic nemění. Pokud jde o úctu, jež tkví v tom, že vás považuji za příhodného manžela pro Natálii, máte přede všemi ostatními muži na tomhle světě tu nezměrnou výhodu, že vás Natálie miluje a chce vás a nikoho jiného; ale i vzdor téhle výhodě bychom, Matylda ani já, kterému přisoudili tohle právo, nikdy k tomu nedali souhlas, jestliže by nám to, jaký jste, nevnukalo důvěru, že se tu snad uzavře trvale šťastný rodinný svazek. Pokud jde o úctu, kterou jsem vám dlužen i mimo tuhle záležitost, soudím, že jsem vám její důkazy poskytl. I když jsem se domníval, že byste mohl být v budoucnu Natáliiným manželem, kdy něco takového nastane, to bylo tak neurčité, kdyžtě se nejdřív musela začít rodit vzájemná náklonnost, že pomyšlení na to nemohlo mít sebemenší vliv na mé chování k vám, ba v průběhu doby ono pomyšlení teprve porodil můj názor na vás.“
@@ -490,3 +492,5 @@ Matylda, když jsem za ní jednou zavítal do Hvězdného dvora, řekla mi, že 
 Jedna část toho vývoje, pomyslel jsem si, teď právě nastala, druhá část nadejde, až se usadí Gustav. Ve mně se ženám dostalo znovu opory, tak aby se znovu projevilo pevné jádro jejich existence; ve mně navázaly nové pouto k mým nejbližším a i vztah k Risachovi se dovršil a upevnil. Závěr rodinné sounáležitosti pak poskytne Gustav.
 
 Pokud se mne týká, já jsem si po té naší společné cestě vznešenějšími kraji položil otázku, jestli styk s milými přáteli, jestli umění, literatura, věda život popisují a dokonávají, anebo jestli existuje ještě cosi, co je dál a co ho celý do sebe pojme a naplní štěstím ještě daleko větším. Tohle větší štěstí, štěstí, jež jako kdyby bylo nevyčerpatelné, dospělo ke mně ze strany docela jiné, než jsem tehdy tušil. Jestli to nyní ve vědě, které jsem nikdy nedal vale, dotáhnu třeba daleko, jestli mě bůh obdaří milostí, že vejdu mezi velikány vědy, to nevím; ale jisté je jedno, že ryzí rodinný život, jak ho požaduje Risach, byl už založen, bude, tak jak to zaručuje naše vzájemná náklonnost a naše srdce, trvat nadále v nijak neoslabené plnosti, já budu spravovat své jmění, budu i jinak ještě užitečný, a cokoliv, i vědecké snažení, dojde nyní prostoty, opory a významu.
+
+</section>

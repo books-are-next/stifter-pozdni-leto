@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-ce648ae';
+const CACHE = 'cache-fb00a28';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./pozdni_leto_005.html","./pozdni_leto_006.html","./pozdni_leto_007.html","./pozdni_leto_008.html","./pozdni_leto_009.html","./pozdni_leto_010.html","./pozdni_leto_011.html","./pozdni_leto_012.html","./pozdni_leto_013.html","./pozdni_leto_014.html","./pozdni_leto_015.html","./pozdni_leto_016.html","./pozdni_leto_017.html","./pozdni_leto_018.html","./pozdni_leto_019.html","./pozdni_leto_020.html","./pozdni_leto_021.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/mzk_logo_tyrkys_transparent.jpg","./resources/obalka_pozdni_leto.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./template-images/circles.png","./style/style.min.css"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./pozdni_leto_006.html","./pozdni_leto_005.html","./pozdni_leto_007.html","./pozdni_leto_008.html","./pozdni_leto_009.html","./pozdni_leto_011.html","./pozdni_leto_010.html","./pozdni_leto_012.html","./pozdni_leto_013.html","./pozdni_leto_014.html","./pozdni_leto_015.html","./pozdni_leto_016.html","./pozdni_leto_017.html","./pozdni_leto_018.html","./pozdni_leto_019.html","./pozdni_leto_020.html","./pozdni_leto_021.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/mzk_logo_tyrkys_transparent.jpg","./resources/obalka_pozdni_leto.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
