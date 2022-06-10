@@ -3,8 +3,6 @@ title: Rozloučení
 contentType: prose
 ---
 
-  
-
 Ještě nějakou dobu jsem seděl pod stromem a srovnával si v mysli, co jsem uviděl a uslyšel. Ve stromě bzučely včely a v zahradě zpívali ptáci. Některými svými částmi, ať už bílou zdí, nebo cihlovou střechou, nakukoval sem zelení stromů dům, do něhož starý muž odešel, a po mé pravici, na druhé straně křovisek v končině, kde jsem tušil truhlárnu, stoupal vzhůru do povětří řídký kouř. Zpěv ptáků a bzukot včel, to pro mne bylo málem ticho, ježto jsem za svého putování po horách takovým neustávajícím zvukům uvykl. Ticho přerušovaly jen jednotlivé zvuky, které sem doléhaly od dělníků v zahradě, buď bylo slyšet kvičení pumpy, jíž natahovali do věder vodu a strouhami ji pak vedli do nádrže, aby ji mohli večer nabírat na kropení, anebo to zněl daleký anebo blízký lidský hovor, a v něm nějaký povel anebo informace. Rozličné části oblohy, které sem nahlížely zelení stromů, byly úplně modré a prozrazovaly, nakolik měl můj hostitel pravdu se svou předpovědí krásného počasí.
 
 Konečně jsem se vytrhl z přemýšlení a vydal se vzhůru zahradou.

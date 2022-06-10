@@ -3,8 +3,6 @@ title: Nocleh
 contentType: prose
 ---
 
-  
-
 Po nějaké chvíli řekl můj hostitel: „Ježto jste přijal mou nabídku přenocování, mohli bychom si od tohohle stromu vyjít trochu ven, tak abyste lépe poznal náš kraj. Kdyby snad bouřka propukala, asi oba víme, jaké jsou toho příznaky, abychom včas udělali čelem vzad a bezpečně došli domů.“
 
 „To můžeme udělat,“ řekl jsem a vstali jsme z lavičky.

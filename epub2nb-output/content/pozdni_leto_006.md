@@ -3,8 +3,6 @@ title: Poutník
 contentType: prose
 ---
 
-  
-
 S důchodem, který mi otec vyměřil, zacházel jsem dobře. Proto se po nějaké době můj kruh rozšířil, tak jak to otec předtím slíbil. Od té chvíle jsem měl z příjmů, které mi poukazoval, uhrazovat svých potřeb nejenom část, nýbrž potřeby všechny. Proto se můj důchod zvětšil. Otec mi jej do nynějška vyplácel ne už měsíčně, nýbrž čtvrtletně, abych si zvykl na delší časové úseky. Aby mi jej vydával půlročně, anebo dokonce vždy na celý rok, toho se odvážit nechtěl, abych třeba neupadl do nějakých neřádností. Ani mi nedával celý úrok z dědictví po prastrýci, nýbrž jen jednu část, druhou část ukládal k hlavní částce, takže můj majetek rostl, i když mi z důchodu nezbylo nic. Nadále platilo omezení, že musím bydlet v domě rodičů a jíst s nimi u stolu. Za to se stanovila cena, kterou jsem měl platit každého čtvrt roku. Jakoukoliv další potřebu, šaty, knihy, přístroje anebo cokoliv jiného, mohl jsem uspokojovat podle uvážení a úsudku.
 
 Sestře se rovněž dostalo oprávnění stran jejího dílu dědictví po prastrýci, potud, pokud se to u děvčete patřilo.

@@ -3,8 +3,6 @@ title: Návštěva
 contentType: prose
 ---
 
-  
-
 V místě svého nového pobytu jsem pak byl dost dlouho. Z toho, co jsem konal, vyplulo vždy cosi dalšího a nového a drželo mě na místě. Pronikl jsem posléze i hlouběji do horského údolí a pustil jsem se do věcí, které jsem v onom létě zpočátku ani nezamýšlel.
 
 Pozdě na podzim jsem se vrátil ke svým. Dařilo se mi na té výpravě, tak jak se mi dařilo na každé cestě domů. Když jsem odešel z hor, listy klenů a břízy a jasany nejenže dávno už opadaly, ale už i pozbyly své krásné žluté barvy a byly teď špinavě černé, a to už nepřipomínalo ratolesti větví, jimiž byly v létě, nýbrž úrodnou prsť, jíž se měly stát v zimě pro nové potomstvo; obyvatelé horských údolí a kopců, kteří někdy rozdělávají ohně v kteroukoliv roční dobu, udržovali takový oheň celý den v kamnech, aby se ohřáli, a za jasných jiter blyštěla se jinovatka na horských loukách a zeleň kapradí už se proměnila ve vyprahlou rzivou hněď; když jsem však už doputoval do nížiny a hory se mi jevily na jejím okraji už jen jako modrý lem a když jsem posléze po široké řece doplul až do našeho hlavního města, ovívaly mě něžné a teplé vánky, až jsem měl za to, že jsem snad dal horám vale příliš záhy. Ale to byl jen rozdíl mezi tím, jaká je obloha v horách a jaká ve vzdálených dolinách. Když jsem vyšel z lodi a dorazil k branám svého rodného města, akáty měly ještě listí, na hradby kolem města a na domy se kladlo teplé sluneční světlo a lidé v krásných šatech se za odpoledne procházeli. Lahodná červenavá a tmavě modrá barva hroznů, jež se nabízely u brány a na náměstí uvnitř bran, vyvolala ve mně vzpomínky na nejeden přívětivý a veselý podzimní den v dětství.

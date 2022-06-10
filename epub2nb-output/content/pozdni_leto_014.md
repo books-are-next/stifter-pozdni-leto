@@ -3,8 +3,6 @@ title: Nahlédnutí
 contentType: prose
 ---
 
-  
-
 Odjížděl jsem z Růžového domu za špatného počasí, které větrem, deštěm a sněhem vystřídalo bezmračné a slunečné dny, jež jsme trávili na vysočině. Koně mého hostitele mě dovezli na první poštu a tam už jsem měl objednáno místo v dostavníku, který jel k mému domovu. Matylda a Natálie odjely dva dny přede mnou, jelikož se na obloze pomalu ukazovaly příznaky, že mírné dny v tomhle roce už skončí. Roland ze svého putování dorazil už na Strázný dvůr. Všechno ukazovalo na to, že v povětří nadejde bouřlivá změna. Nevím, proč jsem tu zůstal tak dlouho. Také mi připadalo, že je jedno, jestli je počasí špatné, anebo ne. Byl jsem ze svého putování zvyklý na každé počasí, o to spíš mi mohlo být tohle lhostejné, kdyžtě jsem seděl v dokonale chráněném voze a ujížděl po dobře zbudované silnici.
 
 V poledne třetího dne poté, co jsem odjel z Růžového domu, dorazil jsem ke svým nejbližším. V tomhle roce už druhý příjezd.

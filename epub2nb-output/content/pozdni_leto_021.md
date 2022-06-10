@@ -3,8 +3,6 @@ title: Závěr
 contentType: prose
 ---
 
-  
-
 Druhého dne jsem se dopoledne v době, o níž jsem věděl, že můj hostitel nemá tolik co dělat, vybraně oblékl, zašel za ním do jizby a vroucně mu poděkoval za úctu, jakou mi prokazuje, když mě považuje za hodna toho, být Natáliiným manželem.
 
 „Pokud jde o důvěru,“ opáčil, „je samozřejmé, že do svých nejniternějších záležitostí nezasvěcujeme každého, kdo nám je vzdálen; ale stejně tak je samozřejmé, že ten, kdo v budoucnu bude tvořit část naší rodiny, také bude vědět všechno, co se týká téhle rodiny. Řekl jsem vám to nejpodstatnější, jednotlivé drobné okolnosti, jež se ne vždy uloží v naší představivosti, na věci nic nemění. Pokud jde o úctu, jež tkví v tom, že vás považuji za příhodného manžela pro Natálii, máte přede všemi ostatními muži na tomhle světě tu nezměrnou výhodu, že vás Natálie miluje a chce vás a nikoho jiného; ale i vzdor téhle výhodě bychom, Matylda ani já, kterému přisoudili tohle právo, nikdy k tomu nedali souhlas, jestliže by nám to, jaký jste, nevnukalo důvěru, že se tu snad uzavře trvale šťastný rodinný svazek. Pokud jde o úctu, kterou jsem vám dlužen i mimo tuhle záležitost, soudím, že jsem vám její důkazy poskytl. I když jsem se domníval, že byste mohl být v budoucnu Natáliiným manželem, kdy něco takového nastane, to bylo tak neurčité, kdyžtě se nejdřív musela začít rodit vzájemná náklonnost, že pomyšlení na to nemohlo mít sebemenší vliv na mé chování k vám, ba v průběhu doby ono pomyšlení teprve porodil můj názor na vás.“
