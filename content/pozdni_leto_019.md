@@ -3,8 +3,6 @@ title: Oznámení
 contentType: prose
 ---
 
-  
-
 Doma mě ještě nečekali, protože jsem jim dal dopisem zprávu, že se svým hostitelem podniknu malou výpravu do jednoho starobylého kostela. Také si představovali, že se ještě jednou vydám na místo, kde jsem ve velehorách pobýval, a že na zpáteční cestě nějaký čas pobudu ve Hvězdném dvoře. Mýlili se však; ač jsem totiž byl tam i onde, nebyl jsem nikde dlouho; a srdce na mne naléhalo, abych svým nejbližším vyznal, jak si stojí mé záležitosti. Když jsem to udělal, byli dojati daleko méně, než jsem očekával. Měli radost, ale jak říkali, věděli, že to tak bude, ba to, že se věci budou teď takto vyvíjet, tušili prý už celé roky. V Růžovém domě a ve Hvězdném dvoře, prohlásili, by se ke mně nebyli asi chovali tak přátelsky a laskavě, kdyby mě neměli rádi a kdyby i to, co se teď událo, nepovažovali za věc milou, jejíž známky se přece určitě daly tušit, už když se rodila. Jakkoli mi tenhle názor byl příjemný, protože vyjevoval, jak o mně smýšlejí mí blízcí, přesto jsem si nemohl nemyslet, že takhle vidí celou záležitost pouze mí blízcí, prostě proto, že to jsou mí blízcí, a že mě také proto považují za hodného přijetí mezi ony příbuzné. Já jsem to ovšem viděl jinak, protože jsem znal Natálii a její okolí a byl jsem s to vytušit, jakou má cenu. To, co mě potkalo, nemohl jsem nepovažovat než za štěstí, které mi přivedl v ústrety příznivý osud; a musel jsem se snažit, abych takového štěstí byl víc a více hoden.
 
 Otec řekl, že je všechno dobré, matka v rozlítostnělém a radostném rozpoložení trousila znovu a znovu výroky, že pro svazek tak závažný není vůbec nic zchystáno; sestra na mne zhusta pohlížela zadumaně a přemítavě.

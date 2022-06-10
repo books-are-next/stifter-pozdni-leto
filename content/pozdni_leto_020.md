@@ -3,8 +3,6 @@ title: Ohlédnutí
 contentType: prose
 ---
 
-  
-
 O nic jsem nežádal a k ničemu nevyzýval ani zjevně, ani zastřeně, přesto můj hostitel, když uplynul jeden den, pokračoval ve svých vývodech. Zeptal se, jestli může nějakou dobu strávit u mě v pokoji, a já jsem samozřejmě přitakal. Seděli jsme u příjemného a tichého ohně, který se živil z velikánských a pevných bukových špalků, pohodlně se usadil v čalouněném křesle a řekl: „Rád bych dneska, jestli je vám to po chuti, dovyprávěl všechno do konce. Postaral jsem se, aby nás nikdo nerušil, jen mi klidně řekněte, jestli si mě chcete poslechnout.“
 
 „Vy víte, že mi to bude nejenom příjemné, ale že je to i mou povinností,“ odpověděl jsem mu.

@@ -3,8 +3,6 @@ title: Domácí pohoda
 contentType: prose
 ---
 
-  
-
 Otec byl kupec. Obýval ve městě část prvního patra jednoho přiměřeně velkého domu, v němž byl v nájmu. V témž domě měl i krám, kancelář, jakož i skladiště na zboží a další věci, které potřeboval k provozování obchodu. V prvním patře kromě nás bydlela ještě jedna rodina, která sestávala ze dvou starých lidí, muže a jeho ženy; ti za celá ta léta u nás jednou nebo dvakrát jedli a my chodili k nim a oni k nám, pokud byl nějaký svátek anebo den, kdy se obvykle chodívalo na návštěvu anebo se přávalo hodně štěstí. Otec měl dvě děti, mne, prvorozeného syna, a dceru, která byla o dva roky mladší než já. Každý jsme v bytě měli svůj pokojík, a v něm jsme se museli věnovat činnosti, která se nám už v dětství pravidelně ukládala, a v něm jsme také spali. Matka do nich nahlížela a tu a tam nám dovolila, abychom pobyli v jejich obytném pokoji a těšili se tou a onou hrou.
 
 Otec býval většinou v krámu a v kanceláři. Ve dvanáct přicházel nahoru a jedlo se v jídelně. Otcovi příručí jedli s námi u stolu s otcem a s matkou, dvě děvečky a příručí ve skladu měli svůj stůl v pokoji pro čeleď. My děti jsme dostávali jednoduché pokrmy, otec a matka mívali tu a tam pečeni a pokaždé sklenku dobrého vína. Příručí v obchodě dostávali rovněž trochu pečeně a sklenku téhož vína. Zpočátku měl otec jenom jednoho účetního a dva příručí, později měl čtyři.
