@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stifter-pozdni-leto-fb00a28",
-  "revision": "fb00a28",
+  "identifier": "stifter-pozdni-leto-86dbdb1",
+  "revision": "86dbdb1",
   "readingOrder": [
     "promo.html",
     "pozdni_leto_005.html",
@@ -31,8 +31,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:56:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883797581
+    "date": "Sat Jun 11 2022 12:12:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949551830
   },
   "documents": [
     {
