@@ -12,6 +12,8 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-12-02T00:00:00.000Z'
   isbn: 978-80-274-1938-8
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - promo.html
   - pozdni_leto_005.html

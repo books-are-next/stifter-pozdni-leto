@@ -5,10 +5,11 @@
   "title": "Pozdní léto",
   "author": "Adalbert Stifter",
   "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stifter-pozdni-leto-7f10597",
-  "revision": "7f10597",
+  "identifier": "stifter-pozdni-leto-2e8df37",
+  "revision": "2e8df37",
   "readingOrder": [
     "promo.html",
     "pozdni_leto_005.html",
@@ -31,8 +32,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:58:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272704115
+    "date": "Thu Jun 16 2022 07:34:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364864961
   },
   "documents": [
     {
@@ -410,9 +411,9 @@
   ],
   "totals": {
     "all": {
-      "words": 223900,
-      "chars": 1302217,
-      "ideas": 2544
+      "words": 223902,
+      "chars": 1302228,
+      "ideas": 2546
     },
     "chapters": {
       "words": 223749,
