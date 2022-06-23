@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stifter-pozdni-leto-2e8df37",
-  "revision": "2e8df37",
+  "identifier": "stifter-pozdni-leto-66112a4",
+  "revision": "66112a4",
   "readingOrder": [
     "promo.html",
     "pozdni_leto_005.html",
@@ -32,8 +32,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 16 2022 07:34:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655364864961
+    "date": "Thu Jun 23 2022 10:29:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655980180743
   },
   "documents": [
     {
