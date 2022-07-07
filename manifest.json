@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stifter-pozdni-leto-66112a4",
-  "revision": "66112a4",
+  "identifier": "stifter-pozdni-leto-af81cc4",
+  "revision": "af81cc4",
   "readingOrder": [
     "promo.html",
     "pozdni_leto_005.html",
@@ -29,11 +29,11 @@
     "pozdni_leto_019.html",
     "pozdni_leto_020.html",
     "pozdni_leto_021.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:29:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980180743
+    "date": "Thu Jul 07 2022 08:39:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183183058
   },
   "documents": [
     {
@@ -302,7 +302,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Věci se vyvíjejí",
+          "name": "Věci se vyvíjejí",
           "id": null,
           "children": []
         }
@@ -377,7 +377,7 @@
       "role": "chapter",
       "order": 17,
       "prev": "pozdni_leto_020.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -390,11 +390,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 147,
-      "chars": 959,
+      "chars": 958,
       "ideas": 19,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "pozdni_leto_021.html",
       "next": null,
@@ -412,7 +412,7 @@
   "totals": {
     "all": {
       "words": 223902,
-      "chars": 1302228,
+      "chars": 1302227,
       "ideas": 2546
     },
     "chapters": {

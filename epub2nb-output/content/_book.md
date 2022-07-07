@@ -33,7 +33,7 @@ readingOrder:
   - pozdni_leto_019.html
   - pozdni_leto_020.html
   - pozdni_leto_021.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
