@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stifter-pozdni-leto-28b162d",
-  "revision": "28b162d",
+  "identifier": "stifter-pozdni-leto-9189957",
+  "revision": "9189957",
   "readingOrder": [
     "promo.html",
     "pozdni_leto_005.html",
@@ -32,8 +32,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:06:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188411894
+    "date": "Thu Jul 21 2022 14:33:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414035721
   },
   "documents": [
     {
@@ -392,7 +392,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 147,
-      "chars": 958,
+      "chars": 959,
       "ideas": 19,
       "role": "about",
       "order": null,
@@ -412,7 +412,7 @@
   "totals": {
     "all": {
       "words": 223902,
-      "chars": 1302227,
+      "chars": 1302228,
       "ideas": 2546
     },
     "chapters": {
